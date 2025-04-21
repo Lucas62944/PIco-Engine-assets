@@ -1,0 +1,48 @@
+{
+	"camera_boyfriend": [
+		-50,
+		0
+	],
+	"preload": {
+		"images/stages/Nova pasta/Tokyo": 3
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "Nene-NGR",
+		"gf": "Nene-Nothing"
+	},
+	"boyfriend": [
+		890,
+		220
+	],
+	"girlfriend": [
+		425,
+		90
+	],
+	"isPixelStage": false,
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		50
+	],
+	"defaultZoom": 0.8,
+	"opponent": [
+		-60,
+		210
+	],
+	"directory": "",
+	"camera_opponent": [
+		50,
+		0
+	]
+}

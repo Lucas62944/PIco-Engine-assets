@@ -1,0 +1,45 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "pico",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"improbable-outset",
+			"tricky-mask",
+			[
+				24,
+				95,
+				64
+			]
+		],
+		[
+			"too-slow",
+			"sonicexe",
+			[
+				0,
+				85,
+				142
+			]
+		],
+		[
+			"playdate",
+			"face",
+			[
+				195,
+				106,
+				165
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

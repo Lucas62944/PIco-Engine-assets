@@ -1,0 +1,28 @@
+{
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"defaultZoom": 0.65,
+	"opponent": [
+		760,
+		980
+	],
+	"directory": "Cuphead",
+	"girlfriend": [
+		1200,
+		980
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		1800,
+		980
+	]
+}

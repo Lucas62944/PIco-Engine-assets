@@ -1,0 +1,38 @@
+{
+	"preload": {
+		"images/stages/island/island": 2,
+		"images/abot/aBotViz": 3,
+		"images/abot/stereoBG": 3
+	},
+	"_editorMeta": {
+		"boyfriend": "pico-playable",
+		"dad": "Tricky Mask",
+		"gf": "nene"
+	},
+	"boyfriend": [
+		830,
+		115
+	],
+	"isPixelStage": false,
+	"girlfriend": [
+		320,
+		80
+	],
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"defaultZoom": 0.75,
+	"opponent": [
+		0,
+		185
+	],
+	"directory": ""
+}

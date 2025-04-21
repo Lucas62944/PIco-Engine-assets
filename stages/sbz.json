@@ -1,0 +1,48 @@
+{
+	"camera_boyfriend": [
+		100,
+		0
+	],
+	"preload": {
+		"images/Stage/sbz/Capsules": 3,
+		"images/Stage/sbz/floor": 3,
+		"images/Stage/sbz/destroyed-city": 3,
+		"images/Stage/sbz/sky": 3
+	},
+	"_editorMeta": {
+		"boyfriend": "pico-playable",
+		"gf": "nene",
+		"dad": "knuckles-exe"
+	},
+	"girlfriend": [
+		635,
+		220
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		1180,
+		345
+	],
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"defaultZoom": 0.8,
+	"directory": "",
+	"opponent": [
+		370,
+		515
+	],
+	"camera_opponent": [
+		0,
+		160
+	],
+	"hide_girlfriend": false
+}

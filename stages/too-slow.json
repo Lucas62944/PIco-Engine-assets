@@ -1,0 +1,40 @@
+{
+	"_editorMeta": {
+		"boyfriend": "pico-playable",
+		"dad": "sonicFaker",
+		"gf": "nene"
+	},
+	"preload": {
+		"images/abot/systemEyes/spritemap1": 3,
+		"images/abot/abotSystem/spritemap1": 3,
+		"images/abot/stereoBG": 3,
+		"images/stages/Too Slow/NEWBGSKY": 3,
+		"images/abot/aBotViz": 3
+	},
+	"boyfriend": [
+		550,
+		-45
+	],
+	"girlfriend": [
+		100,
+		-45
+	],
+	"isPixelStage": false,
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"defaultZoom": 0.65,
+	"opponent": [
+		-120,
+		0
+	],
+	"directory": ""
+}

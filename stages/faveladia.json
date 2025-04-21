@@ -1,0 +1,33 @@
+{
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"defaultZoom": 0.75,
+	"_editorMeta": {
+		"boyfriend": "bidu-gold",
+		"gf": "barbara-chocolate",
+		"dad": "dono"
+	},
+	"opponent": [
+		80,
+		45
+	],
+	"directory": "",
+	"girlfriend": [
+		400,
+		70
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		805,
+		10
+	]
+}
